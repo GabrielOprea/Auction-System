@@ -1,0 +1,324 @@
+{
+	"products": [{
+			"product_type": "antique",
+			"name": "Viking sword",
+			"min_price": 5200,
+			"year": 2018,
+			"age": 2000,
+			"origin": "Norway"
+		},
+		{
+			"product_type": "furniture",
+			"name": "armchair",
+			"min_price": 56,
+			"year": 2018,
+			"type": "modern",
+			"material": "wood"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "female ring",
+			"min_price": 5590,
+			"year": 2016,
+			"material": "silver",
+			"precious_stone": "true"
+		},
+		{
+			"product_type": "clothing",
+			"name": "black pirate hat",
+			"min_price": 4520,
+			"year": 2015,
+			"designer": "Armani",
+			"material": "aligator skin"
+		},
+		{
+			"product_type": "clothing",
+			"name": "blue shorts",
+			"min_price": 1200,
+			"year": 2018,
+			"designer": "Louis Vuitton",
+			"material": "cotton"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "jewels box",
+			"min_price": 1600,
+			"year": 2016,
+			"material": "glass",
+			"precious_stone": "false"
+		},
+		{
+			"product_type": "painting",
+			"name": "The scream",
+			"min_price": 50000,
+			"year": 1503,
+			"painter_name": "Edward Munch",
+			"color": "acrylic"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "wedding ring",
+			"min_price": 9000,
+			"year": 2020,
+			"material": "platinum",
+			"precious_stone": "yes"
+		},
+		{
+			"product_type": "painting",
+			"name": "The Kiss",
+			"min_price": 15500,
+			"year": 2019,
+			"painter_name": "Gustav Klimt",
+			"color": "tempera"
+		},
+		{
+			"product_type": "antique",
+			"name": "katana",
+			"min_price": 19100,
+			"year": 2020,
+			"age": 100,
+			"origin": "Japan"
+		},
+		{
+			"product_type": "furniture",
+			"name": "two seats bed",
+			"min_price": 700,
+			"year": 2019,
+			"type": "bed",
+			"material": "wood"
+		},
+		{
+			"product_type": "antique",
+			"name": "ancient god statue",
+			"min_price": 12120,
+			"year": 2019,
+			"age": 1500,
+			"origin": "Greece"
+		},
+		{
+			"product_type": "clothing",
+			"name": "Fitted suit pants",
+			"min_price": 5250,
+			"year": 2019,
+			"designer": "Dolce Gabanna",
+			"material": "satin"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "rainbow earrings",
+			"min_price": 9125,
+			"year": 2019,
+			"material": "gold",
+			"precious_stone": "false"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "iced out necklace",
+			"min_price": 56512,
+			"year": 2020,
+			"material": "white diamonds",
+			"precious_stone": "true"
+		},
+		{
+			"product_type": "painting",
+			"name": "The Creation of Adam",
+			"min_price": 1121,
+			"year": 2017,
+			"painter_name": "Michelangelo",
+			"color": "oil"
+		},
+		{
+			"product_type": "furniture",
+			"name": "desk",
+			"min_price": 78,
+			"year": 2016,
+			"type": "office",
+			"material": "wood"
+		},
+		{
+			"product_type": "furniture",
+			"name": "lounge",
+			"min_price": 136,
+			"year": 2018,
+			"type": "office",
+			"matarial": "padding"
+		},
+		{
+			"product_type": "antique",
+			"name": "old bronze bowl",
+			"min_price": 200,
+			"year": 2019,
+			"age": 100,
+			"origin": "China"
+		},
+		{
+			"product_type": "clothing",
+			"name": "pink sneakers",
+			"min_price": 460,
+			"year": 2020,
+			"designer": "Adidas",
+			"material": "leather"
+		},
+		{
+			"product_type": "clothing",
+			"name": "red sneakers",
+			"min_price": 360,
+			"year": 2020,
+			"designer": "Adidas",
+			"material": "leather"
+		},
+		{
+			"product_type": "clothing",
+			"name": "blue sneakers",
+			"min_price": 560,
+			"year": 2019,
+			"designer": "Adidas",
+			"material": "silk"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "iced out watch",
+			"min_price": 156512,
+			"year": 2020,
+			"material": "white diamonds",
+			"precious_stone": "true"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "earrings",
+			"min_price": 120,
+			"year": 2018,
+			"material": "bronze",
+			"precious_stone": "false"
+		}
+	],
+	"clients": [{
+			"client_type": "natural",
+			"name": "Adam",
+			"address": "Beijing",
+			"birth_date": "13.10.1989"
+		},
+		{
+			"client_type": "legal",
+			"name": "Oana",
+			"address": "Londra",
+			"company": "SA",
+			"capital": 10120
+		},
+		{
+			"client_type": "natural",
+			"name": "Alina",
+			"address": "Chisinau",
+			"birth_date": "08.11.1995"
+		},
+		{
+			"client_type": "legal",
+			"name": "Dorel",
+			"address": "Madrid",
+			"company": "SRL",
+			"capital": 24510
+		},
+		{
+			"client_type": "natural",
+			"name": "Carmen",
+			"address": "Ploiesti",
+			"birth_date": "15.09.1994"
+		},
+		{
+			"client_type": "legal",
+			"name": "Rares",
+			"address": "Braila",
+			"company": "SRL",
+			"capital": 1680
+		},
+		{
+			"client_type": "natural",
+			"name": "Ion",
+			"address": "Pripas",
+			"birth_date": "14.07.1974"
+		},
+		{
+			"client_type": "natural",
+			"name": "Alin",
+			"address": "Vaslui",
+			"birth_date": "12.05.1994"
+		}
+	],
+	"administrator": {
+		"name": "Maricelul",
+		"years_of_experience": 10,
+		"rating": 4
+	},
+	"brokers": [{
+			"name": "Marin",
+			"years_of_experience": 5,
+			"rating": 5
+		},
+		{
+			"name": "Martinel",
+			"years_of_experience": 8,
+			"rating": 4
+		},
+		{
+			"name": "Diana",
+			"years_of_experience": 3,
+			"rating": 4
+		},
+		{
+			"name": "George",
+			"years_of_experience": 5,
+			"rating": 4
+		},
+		{
+			"name": "Bogdan",
+			"years_of_experience": 6,
+			"rating": 4
+		},
+		{
+			"name": "Stelian",
+			"years_of_experience": 7,
+			"rating": 4
+		},
+		{
+			"name": "Larisa",
+			"years_of_experience": 3,
+			"rating": 5
+		}
+	],
+	"auctions": [{
+			"product_id": 17,
+			"no_max_steps": 3,
+			"no_participants": 4
+		},
+		{
+			"product_id": 13,
+			"no_max_steps": 2,
+			"no_participants": 3
+		},
+		{
+			"product_id": 6,
+			"no_max_steps": 2,
+			"no_participants": 3
+		},
+		{
+			"product_id": 18,
+			"no_max_steps": 7,
+			"no_participants": 4
+		},
+		{
+			"product_id": 4,
+			"no_max_steps": 2,
+			"no_participants": 3
+		},
+		{
+			"product_id": 9,
+			"no_max_steps": 2,
+			"no_participants": 3
+		},
+		{
+			"product_id": 11,
+			"no_max_steps": 5,
+			"no_participants": 5
+		}
+	]
+}

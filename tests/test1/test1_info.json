@@ -1,0 +1,243 @@
+{
+	"products": [{
+			"product_type": "furniture",
+			"name": "sofa",
+			"min_price": 10,
+			"year": 2018,
+			"type": "Gothic",
+			"material": "gold"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "blue diamond",
+			"min_price": 50000,
+			"year": 2017,
+			"material": "diamond",
+			"precious_stone": "true"
+		},
+		{
+			"product_type": "antique",
+			"name": "Egyptean Vase",
+			"min_price": 3000,
+			"year": 2016,
+			"age": 1000000,
+			"origin": "Egypt"
+		},
+		{
+			"product_type": "clothing",
+			"name": "red socks",
+			"min_price": 1500,
+			"year": 2019,
+			"designer": "Gucci",
+			"material": "cotton"
+		},
+		{
+			"product_type": "painting",
+			"name": "Mona Lisa",
+			"min_price": 50000,
+			"year": 1503,
+			"painter_name": "Da Vinci",
+			"color": "tempera"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "white diamond",
+			"min_price": 600,
+			"year": 2016,
+			"material": "diamond",
+			"precious_stone": "true"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "wedding ring",
+			"min_price": 1000,
+			"year": 2019,
+			"material": "platinum",
+			"precious_stone": "yes"
+		},
+		{
+			"product_type": "clothing",
+			"name": "striped T-shirt",
+			"min_price": 50,
+			"year": 2016,
+			"designer": "H&M",
+			"material": "cotton"
+		},
+		{
+			"product_type": "painting",
+			"name": "English Rose",
+			"min_price": 5000,
+			"year": 2010,
+			"painter_name": "William Oxer",
+			"color": "oil"
+		},
+		{
+			"product_type": "furniture",
+			"name": "comfy bed",
+			"min_price": 100,
+			"year": 2018,
+			"type": "bed",
+			"material": "wood"
+		},
+		{
+			"product_type": "antique",
+			"name": "Dragon head",
+			"min_price": 12900,
+			"year": 2019,
+			"age": 100,
+			"origin": "China"
+		},
+		{
+			"product_type": "antique",
+			"name": "gold necklace",
+			"min_price": 550120,
+			"year": 2018,
+			"age": 1000,
+			"origin": "Peru"
+		},
+		{
+			"product_type": "clothing",
+			"name": "Fitted jeans",
+			"min_price": 1250,
+			"year": 2018,
+			"designer": "Louis Vuitton",
+			"material": "satin"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "star earrings",
+			"min_price": 2000,
+			"year": 2018,
+			"material": "gold",
+			"precious_stone": "false"
+		},
+		{
+			"product_type": "jewelry",
+			"name": "pearls necklace",
+			"min_price": 214,
+			"year": 2017,
+			"material": "pearls",
+			"precious_stone": "false"
+		},
+		{
+			"product_type": "furniture",
+			"name": "desk",
+			"min_price": 58,
+			"year": 2019,
+			"type": "office",
+			"material": "wood"
+		},
+		{
+			"product_type": "painting",
+			"name": "child drawing",
+			"min_price": 10,
+			"year": 2020,
+			"painter_name": "Joseph Derrick",
+			"color": "oil"
+		},
+		{
+			"product_type": "furniture",
+			"name": "chair",
+			"min_price": 40,
+			"year": 2020,
+			"type": "office",
+			"material": "wood"
+		},
+		{
+			"product_type": "clothing",
+			"name": "sneakers",
+			"min_price": 358,
+			"year": 2019,
+			"designer": "Nike",
+			"material": "leather"
+		},
+		{
+			"product_type": "antique",
+			"name": "ancient wine",
+			"min_price": 19240,
+			"year": 2020,
+			"age": 90,
+			"origin": "China"
+		}
+
+	],
+	"clients": [{
+			"client_type": "legal",
+			"name": "Silviu",
+			"address": "Bucharest",
+			"company": "SRL",
+			"capital": 120
+		},
+		{
+			"client_type": "legal",
+			"name": "Maria",
+			"address": "Cluj",
+			"company": "SA",
+			"capital": 100
+		},
+		{
+			"client_type": "natural",
+			"name": "Gina",
+			"address": "Bacau",
+			"birth_date": "14.10.1990"
+		},
+		{
+			"client_type": "legal",
+			"name": "Georgiana",
+			"address": "Bucuresti",
+			"company": "SRL",
+			"capital": 2450
+		},
+		{
+			"client_type": "natural",
+			"name": "Corneliu",
+			"address": "Pitesti",
+			"company": "SA",
+			"birth_date": "15.09.1994"
+		},
+		{
+			"client_type": "legal",
+			"name": "Rares",
+			"address": "Braila",
+			"company": "SRL",
+			"capital": 1680
+		}
+	],
+	"administrator": {
+		"name": "Maricelul",
+		"years_of_experience": 10,
+		"rating": 4
+	},
+	"brokers": [{
+			"name": "Marin",
+			"years_of_experience": 5,
+			"rating": 3
+		},
+		{
+			"name": "Martinel",
+			"years_of_experience": 4,
+			"rating": 4
+		}
+	],
+	"auctions": [{
+			"product_id": 0,
+			"no_max_steps": 3,
+			"no_participants": 2
+		},
+		{
+			"product_id": 1,
+			"no_max_steps": 2,
+			"no_participants": 3
+		},
+		{
+			"product_id": 5,
+			"no_max_steps": 2,
+			"no_participants": 3
+		},
+		{
+			"product_id": 18,
+			"no_max_steps": 4,
+			"no_participants": 2
+		}
+	]
+}
