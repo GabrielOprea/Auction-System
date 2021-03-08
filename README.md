@@ -10,7 +10,10 @@ Main functionalities:
 -Unit testing using JUnit 5
 -lambda expressions
 
-Implemented Design Pattern-uri:
+<img src="https://user-images.githubusercontent.com/56924647/110312337-a371b380-800d-11eb-8861-03dba7a82c4d.png" width="30%"></img> 
+
+
+Implemented Design Patterns:
 	Singleton(Administrator + Auction House)
 	Builder(Product + Client)
 	Abstract Factory(Product and Client factories)
